@@ -4,3 +4,5 @@
 ![OpenSSF Account Score](openssf-badge.svg)
 
 ![OpenSSF Score](./openssf-badge.svg)
+
+![OpenSSF Average Score for Dippp10](openssf-badge.svg)
