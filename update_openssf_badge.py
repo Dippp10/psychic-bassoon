@@ -5,8 +5,8 @@ import subprocess
 
 # === CONFIGURATION ===
 GITHUB_USERNAME = "Dippp10"          # Replace with your GitHub username
-GITHUB_TOKEN = "" # Needs 'repo' scope if private repos
-REPO_PATH = "/path/to/your/local/repo"     # Local clone of your repo
+GITHUB_TOKEN = "GITHUB_TOKEN" # Needs 'repo' scope if private repos
+REPO_PATH = "."     # Local clone of your repo
 BADGE_FILE = os.path.join(REPO_PATH, "openssf-badge.svg")
 README_FILE = os.path.join(REPO_PATH, "README.md")  # Optional if you embed badge
 
